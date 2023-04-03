@@ -11,6 +11,12 @@ Para conectarnos a Mongodb, vamos a utilizar la librería PyMongo. Para instalar
     
     pip install pymongo
 
+### Para conectar com o MongoDB, use a string de conexão padrão:
+
+
+    mongodb://<user_name>:<password>@localhost:27017/<database_name>?authSource=admin
+
+
 Ahora, vamos a crear un archivo llamado `main.py` y vamos a escribir el siguiente código:
 
 
