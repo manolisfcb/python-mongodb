@@ -80,7 +80,7 @@ def get_person_by_id(person_id):
     
 get_person_by_id('6429b41cb71b185b4a48ac40')
 
-
+# $and = and
 
 # $gt = greater than
 # $lt = less than
